@@ -1,12 +1,17 @@
+.divv{
+    background-color: #EAECEF;
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.navbar{
+    background-color: rgb(35, 35, 35);
+}
+.navbar2{
+    background-color: rgb(35, 35, 35);
+    text-align: center;
+    font-size: small;
+    color: white;
+    height: 50px;
+}
+.footer {
+    margin: 5px;
+}
